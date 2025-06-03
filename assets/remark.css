@@ -28,6 +28,13 @@ h1, h2, h3 {
     bottom: 1em;
 }
 
+.footer {
+  position: absolute;
+  bottom: 1em;
+  left: 1.5em;
+  color: gray;
+}
+
 li p { line-height: 1.25em; }
 .red { color: #fa0000; }
 .blue { color: #0011fa; }
